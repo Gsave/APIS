@@ -1,0 +1,24 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "start":"node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gsave/APIS.git"
+  },
+  "author": "Gianmaria Savegnago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gsave/APIS/issues"
+  },
+  "homepage": "https://github.com/Gsave/APIS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
